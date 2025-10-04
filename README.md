@@ -134,7 +134,7 @@ GROQ_API_KEY = "your_groq_api_key_here"
 
 ---
 
-## 📈 Results / Screenshots  
+## 📈 Results  
 
 ![CareerCraft Dashboard](https://github.com/tanishqkolhatkar93/Career_Craft_AI/blob/main/Screenshot%202025-09-17%20194126.png)
 ![CareerCraft Dashboard](https://github.com/tanishqkolhatkar93/Career_Craft_AI/blob/main/Screenshot%202025-09-17%20194209.png)
@@ -143,7 +143,7 @@ GROQ_API_KEY = "your_groq_api_key_here"
 ![RAG_Chatbot](https://github.com/tanishqkolhatkar93/Career_Craft_AI/blob/main/Screenshot%202025-10-04%20102411.png)
 
 
-![RAG Chatbot Demo](assets/rag_chatbot.png)
+![RAG Chatbot Demo](https://youtu.be/a0PGbMD0wCM?si=hneVYjtKFIa0Vza3)
 
 ---
 
