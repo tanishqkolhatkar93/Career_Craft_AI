@@ -145,6 +145,8 @@ GROQ_API_KEY = "your_groq_api_key_here"
 
 ![RAG Chatbot Demo](https://youtu.be/a0PGbMD0wCM?si=hneVYjtKFIa0Vza3)
 
+[![RAG Chatbot Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/a0PGbMD0wCM?si=hneVYjtKFIa0Vza3)
+
 ---
 
 ## 🧩 Future Roadmap  
