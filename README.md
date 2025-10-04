@@ -1,4 +1,4 @@
-# 🚀 CareerCraft AI — Your End-to-End AI Career Copilot  
+# 🚀 CareerCraft AI — End-to-End AI Career Copilot  
 
 > 🧠 Empowering students and jobseekers with ATS-optimized resumes, intelligent job matching, and AI-driven interview preparation — all in one platform.  
 
