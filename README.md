@@ -136,9 +136,14 @@ GROQ_API_KEY = "your_groq_api_key_here"
 
 ## 📈 Results / Screenshots  
 
-![CareerCraft Dashboard](assets/dashboard.png)
+![CareerCraft Dashboard](https://github.com/tanishqkolhatkar93/Career_Craft_AI/blob/main/Screenshot%202025-09-17%20194126.png)
+![CareerCraft Dashboard](assets/resume_optimizer.png)
+![CareerCraft Dashboard](assets/resume_optimizer.png)
+![RAG_Chatbot](assets/resume_optimizer.png)
+![RAG_Chatbot](assets/resume_optimizer.png)
+
+
 ![RAG Chatbot Demo](assets/rag_chatbot.png)
-![ATS Resume Optimizer](assets/resume_optimizer.png)
 
 ---
 
