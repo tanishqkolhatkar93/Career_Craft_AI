@@ -143,9 +143,9 @@ GROQ_API_KEY = "your_groq_api_key_here"
 ![RAG_Chatbot](https://github.com/tanishqkolhatkar93/Career_Craft_AI/blob/main/Screenshot%202025-10-04%20102411.png)
 
 
-![RAG Chatbot Demo](https://youtu.be/a0PGbMD0wCM?si=hneVYjtKFIa0Vza3)
+### RAG Chatbot Demo  -  https://youtu.be/a0PGbMD0wCM?si=hneVYjtKFIa0Vza3
 
-[![RAG Chatbot Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/a0PGbMD0wCM?si=hneVYjtKFIa0Vza3)
+
 
 ---
 
