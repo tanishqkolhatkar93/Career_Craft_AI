@@ -169,7 +169,7 @@ Please ensure your code follows the repo’s linting and formatting conventions.
 
 **👨‍💻 Tanishq Kolhatkar**  
 📧 [tanishqkolhatkar93@gmail.com](mailto:tanishqkolhatkar93@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tanishqkolhatkar93/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanishq-kolhatkar-4168a0209/)  
 💻 [GitHub](https://github.com/tanishqkolhatkar93)  
 
 ---
