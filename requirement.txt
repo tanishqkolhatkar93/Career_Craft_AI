@@ -1,0 +1,12 @@
+streamlit
+pandas
+rapidfuzz
+PyPDF2
+requests
+beautifulsoup4
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4   # or faiss-gpu if you have CUDA
+scikit-learn>=1.0
+
+
+
