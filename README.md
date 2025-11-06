@@ -146,6 +146,8 @@ GROQ_API_KEY = "your_groq_api_key_here"
 ### RAG Chatbot Demo  -  https://youtu.be/a0PGbMD0wCM?si=hneVYjtKFIa0Vza3
 
 
+### CarrerCraft AI Pitch Deck  -  https://gamma.app/docs/CareerCraft-AI-Powered-Career-Success-Platform-2osbnrf4r8drnzb?mode=doc
+
 
 ---
 
